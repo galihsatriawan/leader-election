@@ -1,0 +1,1 @@
+Reference : https://betterprogramming.pub/writing-distributed-and-replicated-state-machine-in-golang-using-raft-dad79b58cd3a
